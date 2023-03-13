@@ -1,4 +1,5 @@
 //09/03/2023 - Fazer um semaforo duplo
+//16/03/2023 - Fazer Funcionar No Arduino
 
 int ledver1 = 3;
 int ledamarelo = 2;
