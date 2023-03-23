@@ -14,3 +14,5 @@ void loop(){
 	analogWrite(B, random(255));
     delay(200);
 }
+
+// https://www.tinkercad.com/things/hbUnU11g3dl-led-rgb/editel?sharecode=vnSXKbyaKQgs86Y8fJxuS0MI2NhOwNmNyxYthOgYYB0
