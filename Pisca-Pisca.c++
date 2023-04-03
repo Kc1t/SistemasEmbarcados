@@ -75,3 +75,4 @@ void loop() {
   digitalWrite(ledRGB[0], LOW);
   digitalWrite(ledRGB[1], LOW);
   digitalWrite(ledRGB[2], LOW);
+}
