@@ -1,5 +1,4 @@
 // https://www.tinkercad.com/things/kcu6HG8CMDU-6-leds/editel
-
 int leds[] = {2, 3, 4, 5, 6}; // define os pinos dos leds
 int ledRGB[] = {9, 10, 11}; // define os pinos do led RGB
 
