@@ -1,3 +1,5 @@
+link para o tinkercad: "https://www.tinkercad.com/things/iKp60UQEPU6-atividade-de-botao/editel?sharecode=7gMCZ_KGKXrqtvZnIfVZCKzEZK-XQ4n0CDoZahiVtyo"
+
 int LED = 12; //LED conectado ao pino 13
 int BOTAO = 2; //Botão conectado ao pino 8
 int ESTADO_BOTAO = 0; //Variável para leitura do estado do Botão
