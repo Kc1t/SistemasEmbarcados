@@ -1,3 +1,4 @@
+https://www.tinkercad.com/things/hjuicKhHS4D-usano-potenciometro/editel
 #include "Servo.h"
 Servo servo;
 
